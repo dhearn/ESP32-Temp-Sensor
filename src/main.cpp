@@ -62,7 +62,9 @@ const float minValidTemperature = -20;
 unsigned long lastTime = 0;
 
 // Set timer to 1 minute (60000)
-unsigned long timerDelay = 60000;
+// unsigned long timerDelay = 60000;
+// Set timer to 30 seconds (30000)
+unsigned long timerDelay = 30000;
 // Set timer to 20 secs (20000)
 //unsigned long timerDelay = 20000;
 
